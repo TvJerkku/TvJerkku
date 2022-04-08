@@ -1,7 +1,5 @@
 - 👋 Moro @TvJerkku
-- 👀 Mä oon kiinnostunut Devauksesta!
-- 🌱 Luen tällä hetkellä koodausoppaita :DD
-- 📫 Voit kysyä asioita minulta discordissa: Jerkku#1752
+- 📫 Voit kysyä asioita minulta discordissa: TvJerkku#4490
 
 <!---
 TvJerkku/TvJerkku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
